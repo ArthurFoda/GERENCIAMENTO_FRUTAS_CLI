@@ -27,4 +27,4 @@ ENTREGUE NESTA ATIVIDADE O SEU LINK DO REPOSITÓRIO, CASO AS ATIVIDADES NÃO TEN
 AS ATIVIDADES FAZEM PARTE DE AC2. 
 ✒️ Autores Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios AC2 - GERENCIAMENTO FRUTAS (COMMAND LINE INTERFACE)
 
-![Código Rodando]()
+![Código Rodando](Códigodaatividade.png)
